@@ -1,0 +1,148 @@
+{
+    "cards": [
+        {
+            "id": "chatgpt",
+            "ranking": 1,
+            "imageSrc": "./ChatGPT-logo.png",
+            "altText": "Logo",
+            "title": "ChatGPT",
+            "features": [
+                "Highly Efficient Natural Language Processing",
+                "Broad Knowledge Base",
+                "Creative Thinking",
+                "High Adaptability"
+            ],
+            "description": "ChatGPT is a powerful conversational AI assistant developed by OpenAI. It can engage in natural language conversations, answer questions, and assist with a variety of tasks. Trained on a vast amount of data, ChatGPT can generate coherent and informative responses across a wide range of topics. Known for its flexibility and versatility, ChatGPT is a valuable tool for individuals and businesses alike, with the potential to transform how we utilize artificial intelligence.",
+            "attributes": [
+                {
+                    "trait_type": "Hourly Price",
+                    "value": 0.21,
+                    "unit": "LINK/hr"
+                },
+                {
+                    "trait_type": "Daily Price",
+                    "value": 5.04,
+                    "unit": "LINK/day"
+                },
+                {
+                    "trait_type": "Weekly Price",
+                    "value": 35.28,
+                    "unit": "LINK/week"
+                },
+                {
+                    "trait_type": "Monthly Price",
+                    "value": 151.2,
+                    "unit": "LINK/month"
+                }
+            ]
+        },
+        {
+            "id": "copilot",
+            "ranking": 2,
+            "imageSrc": "./Copilot-logo.png",
+            "altText": "Logo",
+            "title": "Copilot",
+            "features": [
+                "Increased Productivity",
+                "Improved Code Quality",
+                "Faster Development",
+                "Reduced Errors"
+            ],
+            "description": "Copilot is an AI-powered code completion tool that increases productivity, improves code quality, speeds up development, and reduces errors.",
+            "attributes": [
+                {
+                    "trait_type": "Hourly Price",
+                    "value": 1.06,
+                    "unit": "LINK/hr"
+                },
+                {
+                    "trait_type": "Daily Price",
+                    "value": 25.44,
+                    "unit": "LINK/day"
+                },
+                {
+                    "trait_type": "Weekly Price",
+                    "value": 178.08,
+                    "unit": "LINK/week"
+                },
+                {
+                    "trait_type": "Monthly Price",
+                    "value": 763.2,
+                    "unit": "LINK/month"
+                }
+            ]
+        },
+        {
+            "id": "chatgpt",
+            "ranking": 6,
+            "imageSrc": "./ChatGPT-logo.png",
+            "altText": "Logo",
+            "title": "ChatGPT",
+            "features": [
+                "Highly Efficient Natural Language Processing",
+                "Broad Knowledge Base",
+                "Creative Thinking",
+                "High Adaptability"
+            ],
+            "description": "ChatGPT is a powerful conversational AI assistant developed by OpenAI. It can engage in natural language conversations, answer questions, and assist with a variety of tasks. Trained on a vast amount of data, ChatGPT can generate coherent and informative responses across a wide range of topics. Known for its flexibility and versatility, ChatGPT is a valuable tool for individuals and businesses alike, with the potential to transform how we utilize artificial intelligence.",
+            "attributes": [
+                {
+                    "trait_type": "Hourly Price",
+                    "value": 0.21,
+                    "unit": "LINK/hr"
+                },
+                {
+                    "trait_type": "Daily Price",
+                    "value": 5.04,
+                    "unit": "LINK/day"
+                },
+                {
+                    "trait_type": "Weekly Price",
+                    "value": 35.28,
+                    "unit": "LINK/week"
+                },
+                {
+                    "trait_type": "Monthly Price",
+                    "value": 151.2,
+                    "unit": "LINK/month"
+                }
+            ]
+        },
+        {
+            "id": "copilot",
+            "ranking": 7,
+            "imageSrc": "./Copilot-logo.png",
+            "altText": "Logo",
+            "title": "Copilot",
+            "features": [
+                "Increased Productivity",
+                "Improved Code Quality",
+                "Faster Development",
+                "Reduced Errors"
+            ],
+            "description": "Copilot is an AI-powered code completion tool that increases productivity, improves code quality, speeds up development, and reduces errors.",
+            "attributes": [
+                {
+                    "trait_type": "Hourly Price",
+                    "value": 1.06,
+                    "unit": "LINK/hr"
+                },
+                {
+                    "trait_type": "Daily Price",
+                    "value": 25.44,
+                    "unit": "LINK/day"
+                },
+                {
+                    "trait_type": "Weekly Price",
+                    "value": 178.08,
+                    "unit": "LINK/week"
+                },
+                {
+                    "trait_type": "Monthly Price",
+                    "value": 763.2,
+                    "unit": "LINK/month"
+                }
+            ]
+        }
+    ]
+}
